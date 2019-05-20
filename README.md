@@ -7,7 +7,7 @@ Simple RingCentral personal bot skill pack for [ringcentral-personal-chatbot-js]
 - server time: command: `server time`, reply with server time.
 - ping pong bot: command: `ping`, reply with `pong`.
 - simple math: command: `{N} [+-*/] {N}`, reply with calculate result.
-- hi bot, command: `hi`, reply with `hi`.
+- hi bot, command: `Hello`, reply with `hi`.
 
 ## License
 
